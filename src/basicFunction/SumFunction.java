@@ -6,7 +6,7 @@ public class SumFunction {
 		
 		int sumNumber = a + b;
 		
-		int c = 1;
+		int c = 2;
 		
 		return sumNumber;
 	}
